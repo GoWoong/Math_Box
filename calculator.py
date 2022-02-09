@@ -4,3 +4,6 @@ def add(a,b):
 
 def stbtract(a,b):
   return a-b
+
+def multiply(a,b):
+  return a+b
